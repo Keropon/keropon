@@ -5,7 +5,7 @@ I'm a Frontend Developer. Web Accessibility & SEO Enthusiast.
 - Ask me about CSS and HTML, I love them!
 - I love Videogame design & development. Also love tinkering with consoles and arcade machines.
 - I love stars⭐ and sparkles✨.
-- Would prefer to be contacted via e-mail.
+- Would prefer to be contacted via [Discussions](https://github.com/Keropon/keropon/discussions/new/choose) or via e-mail.
 
 ## Currently Working with
 
