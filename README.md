@@ -13,11 +13,13 @@ I'm the founder of the [Denpa](https://github.com/denpalabo) and [Dreamstone](ht
 ## I've been using lately
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=raspberrypi)
-![GCP](https://img.shields.io/badge/GCP-FFFFFF.svg?style=flat-square&logo=googlecloud)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-FFFFFF.svg?style=flat-square&logo=webassembly)
 ![Python](https://img.shields.io/badge/Python-FFFFFF.svg?style=flat-square&logo=python)
 ![Typescript](https://img.shields.io/badge/Typescript-FFFFFF.svg?style=flat-square&logo=typescript)
 ![VueJS](https://img.shields.io/badge/VueJS-FFFFFF.svg?style=flat-square&logo=vuedotjs)
 ![C#](https://img.shields.io/badge/C%20Sharp-000000.svg?style=flat-square&logo=sharp)
+![Three.JS](https://img.shields.io/badge/Three.JS-000000.svg?style=flat-square&logo=threedotjs)
 ![Godot Engine](https://img.shields.io/badge/Godot-FFFFFF.svg?style=flat-square&logo=godot-engine)
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FFFFFF.svg?style=flat-square&logo=blender)
 
